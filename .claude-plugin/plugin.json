@@ -1,0 +1,11 @@
+{
+  "name": "authority-md",
+  "displayName": "authority.md",
+  "version": "1.0.0",
+  "description": "Search 640+ thinking frameworks drawn from notable thinkers' documented work, plus task Tools and Playbooks, and load the right one for the job. Includes a free Sherlock Holmes deduction skill as a sample of the catalog.",
+  "author": { "name": "Gareth Hoyle", "url": "https://authority.md/about" },
+  "homepage": "https://authority.md",
+  "repository": "https://github.com/gareth-hoyle/authority-md-plugin",
+  "license": "MIT",
+  "keywords": ["thinking-frameworks", "mental-models", "skills", "mcp", "decision-making", "personas"]
+}

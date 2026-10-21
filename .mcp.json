@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "authority-md": {
+      "type": "http",
+      "url": "https://authority.md/api/mcp"
+    }
+  }
+}

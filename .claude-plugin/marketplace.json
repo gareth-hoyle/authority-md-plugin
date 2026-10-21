@@ -1,0 +1,12 @@
+{
+  "name": "authority-md",
+  "description": "Thinking frameworks from 640+ documented thinkers, task Tools and Playbooks, searchable and purchasable from any Claude surface",
+  "owner": { "name": "Gareth Hoyle", "url": "https://authority.md/about" },
+  "plugins": [
+    {
+      "name": "authority-md",
+      "source": "./",
+      "description": "Find the right documented thinking framework for any task via the authority.md MCP server, plus a free Sherlock Holmes reasoning skill"
+    }
+  ]
+}
